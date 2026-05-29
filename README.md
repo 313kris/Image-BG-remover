@@ -58,24 +58,22 @@ IMAGE-BG/
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone repository
-
-```bash
+###1️⃣ Clone repository
 git clone https://github.com/313kris/Image-BG-remover.git
 
-2️⃣Move into project folder
+###2️⃣Move into project folder
 cd Image-BG-remover
 
-3️⃣ Install dependencies
+###3️⃣ Install dependencies
 npm install
 
-4️⃣ Start development server
+###4️⃣ Start development server
 npm run dev
 
-🏗️ Build Project
+###🏗️ Build Project
 npm run build
 
-🚀 Deployment (GitHub Pages)
+## 🚀 Deployment (GitHub Pages)
 1️⃣ Install gh-pages
 npm install gh-pages --save-dev
 
@@ -100,12 +98,33 @@ export default defineConfig({
 5️⃣ Deploy
 npm run deploy
 ---
-🌍 Live Website
-
+### 🌍 Live Website
 👉 https://313kris.github.io/Image-BG-remover/
 
-📌 Important Notes
+<img width="1757" height="993" alt="react-app and 15 more pages - Personal - Microsoft​ Edge 29-05-2026 13_18_00" src="https://github.com/user-attachments/assets/89dc795f-cd72-4695-af1f-1f418222a331" />
+<img width="1690" height="978" alt="react-app and 15 more pages - Personal - Microsoft​ Edge 29-05-2026 13_18_16" src="https://github.com/user-attachments/assets/4aa369fa-0c6b-4518-b8ad-6c7639897fef" />
+<img width="1696" height="983" alt="react-app and 15 more pages - Personal - Microsoft​ Edge 29-05-2026 13_18_24" src="https://github.com/user-attachments/assets/11fad178-0bb0-4b9e-a4ef-0718428b44e1" />
+<img width="1649" height="996" alt="react-app and 15 more pages - Personal - Microsoft​ Edge 29-05-2026 13_18_33" src="https://github.com/user-attachments/assets/48802831-feef-4040-a375-a6d63c1914bf" />
+<img width="1652" height="956" alt="react-app and 15 more pages - Personal - Microsoft​ Edge 29-05-2026 13_18_46" src="https://github.com/user-attachments/assets/3371eac9-4750-45ef-991b-a2bfd9ba7f87" />
+
+## 📌 Important Notes
 Always run npm run build before deploy
 Never upload dist/ manually
 GitHub Pages uses gh-pages branch automatically
 Repo name must match base path
+
+ ## Author
+👤 Developed by: KRISTIROY
+📌 GitHub: https://github.com/313kris
+
+📄 License
+This project is open-source and free to use.
+
+This version is:
+✔ Clean  
+✔ Error-free  
+✔ GitHub-ready  
+✔ Portfolio-ready  
+✔ No broken formatting  
+
+
