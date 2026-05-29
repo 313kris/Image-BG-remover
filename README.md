@@ -57,20 +57,15 @@ IMAGE-BG/
 ---
 
 ## ⚙️ Installation & Setup
-
-###1️⃣ Clone repository
+1️⃣ Clone repository
 git clone https://github.com/313kris/Image-BG-remover.git
-
-###2️⃣Move into project folder
+2️⃣Move into project folder
 cd Image-BG-remover
-
-###3️⃣ Install dependencies
+3️⃣ Install dependencies
 npm install
-
-###4️⃣ Start development server
+4️⃣ Start development server
 npm run dev
-
-###🏗️ Build Project
+🏗️ Build Project
 npm run build
 
 ## 🚀 Deployment (GitHub Pages)
@@ -94,12 +89,13 @@ export default defineConfig({
   plugins: [react()],
   base: "/Image-BG-remover/"
 })
-
 5️⃣ Deploy
 npm run deploy
 ---
+
 ### 🌍 Live Website
 👉 https://313kris.github.io/Image-BG-remover/
+
 
 <img width="1757" height="993" alt="react-app and 15 more pages - Personal - Microsoft​ Edge 29-05-2026 13_18_00" src="https://github.com/user-attachments/assets/89dc795f-cd72-4695-af1f-1f418222a331" />
 <img width="1690" height="978" alt="react-app and 15 more pages - Personal - Microsoft​ Edge 29-05-2026 13_18_16" src="https://github.com/user-attachments/assets/4aa369fa-0c6b-4518-b8ad-6c7639897fef" />
