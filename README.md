@@ -42,12 +42,6 @@ This project demonstrates practical frontend development skills, including compo
 
 ---
 
-## 📸 Preview
-
-> Add your screenshots here (important for portfolio)
-
----
-
 ## 🚀 Features
 
 - 📤 Upload images from device  
@@ -125,6 +119,7 @@ npm run deploy
 ### 🌍 Live Website
 👉 https://313kris.github.io/Image-BG-remover/
 
+## 📸 Preview
 
 <img width="1757" height="993" alt="react-app and 15 more pages - Personal - Microsoft​ Edge 29-05-2026 13_18_00" src="https://github.com/user-attachments/assets/89dc795f-cd72-4695-af1f-1f418222a331" />
 <img width="1690" height="978" alt="react-app and 15 more pages - Personal - Microsoft​ Edge 29-05-2026 13_18_16" src="https://github.com/user-attachments/assets/4aa369fa-0c6b-4518-b8ad-6c7639897fef" />
