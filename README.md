@@ -95,10 +95,7 @@ npm run build
 1️⃣ Install gh-pages
 npm install gh-pages --save-dev
 
-2️⃣ Add homepage in package.json
-"homepage": "https://313kris.github.io/Image-BG-remover"
-
-3️⃣ Add scripts in package.json
+2️⃣Add scripts in package.json
 "scripts": {
   "dev": "vite",
   "build": "vite build",
