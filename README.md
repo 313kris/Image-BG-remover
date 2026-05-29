@@ -95,6 +95,7 @@ npm run build
 
 1️⃣ Install gh-pages
 npm install gh-pages --save-dev
+
 2️⃣Add scripts in package.json
 "scripts": {
   "dev": "vite",
@@ -103,13 +104,16 @@ npm install gh-pages --save-dev
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
 }
+
 4️⃣ Set base in vite.config.js
 export default defineConfig({
   plugins: [react()],
   base: "/Image-BG-remover/"
 })
+
 5️⃣ Deploy
 npm run deploy
+
 ---
 
 ### 🌍 Live Website
