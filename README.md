@@ -82,6 +82,7 @@ IMAGE-BG/
 ├── vite.config.js # Vite configuration
 ├── package.json # Dependencies + scripts
 └── README.md
+
 ---
 
 ## ⚙️ Installation & Setup
