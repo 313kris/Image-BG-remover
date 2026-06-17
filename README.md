@@ -25,6 +25,7 @@ Beginners learning React development
 Portfolio demonstration of frontend skills
 
 ## ⚙️ Technologies Used
+
 React.js (UI development)
 Vite (fast build tool)
 JavaScript (logic handling)
@@ -61,18 +62,6 @@ This project demonstrates practical frontend development skills, including compo
 - 🌐 GitHub Pages (Deployment)  
 - 📦 gh-pages package
 ---
-
-## ⚙️ Installation & Setup
-1️⃣ Clone repository
-git clone https://github.com/313kris/Image-BG-remover.git
-2️⃣Move into project folder
-cd Image-BG-remover
-3️⃣ Install dependencies
-npm install
-4️⃣ Start development server
-npm run dev
-🏗️ Build Project
-npm run build
 
 ### 🌍 Live Website
 👉 https://313kris.github.io/Image-BG-remover/
