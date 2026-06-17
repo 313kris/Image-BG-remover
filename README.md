@@ -1,4 +1,4 @@
-# 🖼️ Image BG Remover 
+# Image BG Remover 
 
 A modern web application built using **React + Vite** that allows users to upload images and remove backgrounds easily. This project is deployed using **GitHub Pages** via `gh-pages`.
 This project is a modern, responsive web application built using React and Vite that allows users to upload images and remove their backgrounds in a fast and simple way. The main goal of this project is to provide an easy-to-use interface for image background removal without requiring complex software like Photoshop.
@@ -91,31 +91,6 @@ npm run dev
 🏗️ Build Project
 npm run build
 
-## 🚀 Deployment (GitHub Pages)
-
-1️⃣ Install gh-pages
-npm install gh-pages --save-dev
-
-2️⃣Add scripts in package.json
-"scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "preview": "vite preview",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
-}
-
-4️⃣ Set base in vite.config.js
-export default defineConfig({
-  plugins: [react()],
-  base: "/Image-BG-remover/"
-})
-
-5️⃣ Deploy
-npm run deploy
-
----
-
 ### 🌍 Live Website
 👉 https://313kris.github.io/Image-BG-remover/
 
@@ -127,11 +102,6 @@ npm run deploy
 <img width="1649" height="996" alt="react-app and 15 more pages - Personal - Microsoft​ Edge 29-05-2026 13_18_33" src="https://github.com/user-attachments/assets/48802831-feef-4040-a375-a6d63c1914bf" />
 <img width="1652" height="956" alt="react-app and 15 more pages - Personal - Microsoft​ Edge 29-05-2026 13_18_46" src="https://github.com/user-attachments/assets/3371eac9-4750-45ef-991b-a2bfd9ba7f87" />
 
-## 📌 Important Notes
-Always run npm run build before deploy
-Never upload dist/ manually
-GitHub Pages uses gh-pages branch automatically
-Repo name must match base path
 
  ## Author
 👤 Developed by: KRISTIROY
@@ -140,11 +110,6 @@ Repo name must match base path
 📄 License
 This project is open-source and free to use.
 
-This version is:
-✔ Clean  
-✔ Error-free  
-✔ GitHub-ready  
-✔ Portfolio-ready  
-✔ No broken formatting  
+
 
 
