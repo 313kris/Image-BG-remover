@@ -26,11 +26,11 @@ Portfolio demonstration of frontend skills
 
 ## ⚙️ Technologies Used
 
-React.js (UI development)
-Vite (fast build tool)
-JavaScript (logic handling)
-CSS (styling and responsiveness)
-GitHub Pages (deployment hosting)
+- React.js (UI development)
+- Vite (fast build tool)
+- JavaScript (logic handling)
+- CSS (styling and responsiveness)
+- GitHub Pages (deployment hosting)
 
 ## 🌟 Outcome
 
