@@ -62,23 +62,6 @@ This project demonstrates practical frontend development skills, including compo
 - 📦 gh-pages package
 ---
 
-## 📁 Project Structure
-IMAGE-BG/
-│
-├── public/ # Static assets
-├── src/
-│ ├── components/ # React components
-│ ├── pages/ # Pages (if used)
-│ ├── App.jsx # Main app
-│ ├── main.jsx # Entry point
-│
-├── dist/ # Production build (auto generated)
-├── vite.config.js # Vite configuration
-├── package.json # Dependencies + scripts
-└── README.md
-
----
-
 ## ⚙️ Installation & Setup
 1️⃣ Clone repository
 git clone https://github.com/313kris/Image-BG-remover.git
