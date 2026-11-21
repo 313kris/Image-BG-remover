@@ -63,8 +63,6 @@ This project demonstrates practical frontend development skills, including compo
 - 📦 gh-pages package
 ---
 
-### 🌍 Live Website
-👉 https://313kris.github.io/Image-BG-remover/
 
 ## 📸 Preview
 
